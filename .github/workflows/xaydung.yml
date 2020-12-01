@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://mgb1.androidfilehost.com/dl/rpeNU875-mnLjLfYmufaiQ/1602928168/10763459528675565119/xiaomi.eu_multi_MI9LiteMICC9_20.10.15_v12-10.zip
+  ROM_URL: https://mgb1.androidfilehost.com/dl/9vX1c7wtocC9P_ARbrludg/1606871610/10763459528675591882/xiaomi.eu_multi_HMNote7_20.11.25_v12-10.zip?
   ROM_NAME: MIUI
   BUILD_AB: true
   BUILD_Aonly: false
