@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://doc-0s-8s-docs.googleusercontent.com/docs/securesc/etgo6h17v5a0oisgj4gf7g6k9ic6mnnr/tjd1n0ng7f0v4t38poo9r063c3iqkmcr/1622127300000/17894125047618995741/12857377195139705938/1Oe08UlEsqTP7CRMesES3CYlsqUE0RP9s?e=download&authuser=0&nonce=13poqoifke08g&user=12857377195139705938&hash=dir70o5j46815n1an2p2kc702n140jv1
+  ROM_URL: https://gdmbd.sasohan.workers.dev/VOS4.0%20EOL%20Hotfix%20KIVI%20Lavender%20Port%20Android%2011.zip
   ROM_NAME: MIUI
   BUILD_AB: true
   BUILD_Aonly: false
